@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/alli/Desktop/0x0MAY16/EnrollmentAPI/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.EnrollmentAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.build.EnrollmentAPI.props",
+      "PackagePath": "build\\EnrollmentAPI.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.buildMultiTargeting.EnrollmentAPI.props",
+      "PackagePath": "buildMultiTargeting\\EnrollmentAPI.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.buildTransitive.EnrollmentAPI.props",
+      "PackagePath": "buildTransitive\\EnrollmentAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

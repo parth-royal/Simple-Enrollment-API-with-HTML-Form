@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "YCxLVQbkq2vPNLrGu2LOtzCMovrzN1LxW/kWyab0TMg=",
+  "Source": "EnrollmentAPI",
+  "BasePath": "_content/EnrollmentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EnrollmentAPI/wwwroot",
+      "Source": "EnrollmentAPI",
+      "ContentRoot": "/home/alli/Desktop/0x0MAY16/EnrollmentAPI/wwwroot/",
+      "BasePath": "_content/EnrollmentAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/alli/Desktop/0x0MAY16/EnrollmentAPI/wwwroot/index.html",
+      "SourceId": "EnrollmentAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/alli/Desktop/0x0MAY16/EnrollmentAPI/wwwroot/",
+      "BasePath": "_content/EnrollmentAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

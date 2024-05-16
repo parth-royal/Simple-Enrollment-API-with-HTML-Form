@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/EnrollmentAPI.props" />
+</Project>

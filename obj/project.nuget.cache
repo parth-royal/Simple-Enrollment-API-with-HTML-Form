@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NzZegOk2bk=",
+  "success": true,
+  "projectFilePath": "/home/alli/Desktop/0x0MAY16/EnrollmentAPI/EnrollmentAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/alli/.nuget/packages/microsoft.aspnetcore.openapi/8.0.5/microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
+    "/home/alli/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/alli/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/alli/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/alli/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/alli/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/alli/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/home/alli/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.5/microsoft.netcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "/home/alli/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.5/microsoft.aspnetcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "/home/alli/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.5/microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
